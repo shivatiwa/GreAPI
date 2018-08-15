@@ -1,1510 +1,1674 @@
 {
    "results":[
       {
-         "cardid":"1",
-         "title":"Abate",
-         "definition":"subside; moderate; lessen in intensity; put an end to",
-         "swords":"moderate, decline, fade, dwindle, slacken, recede, "
-      },
-      {
-         "cardid":"2",
-         "title":"Aberrant",
-         "definition":"abnormal, deviant",
-         "swords":"anomalous, atypical, especial, exceeding, exceptional, extraordinary, freak, odd, peculiar"
-      },
-      {
-         "cardid":"3",
-         "title":"Abeyance",
-         "definition":"temporary inactivity; suspended action",
-         "swords":"awaiting decision, awaiting action, uncertainty, suspense, remission, reserve"
-      },
-      {
-         "cardid":"4",
-         "title":"Abstemious",
-         "definition":"sparing in eating and drinking; temperate",
-         "swords":"self-disciplined, self-denying, restrained, self-restrained, non-indulgent, sober, ascetic"
-      },
-      {
-         "cardid":"5",
-         "title":"Adulterate",
-         "definition":"make impure by adding inferior or tainted substances; contaminate, debase",
-         "swords":"make impure, degrade, debase, spoil, taint, defile, contaminate, pollute"
-      },
-      {
-         "cardid":"6",
-         "title":"Aggregate",
-         "definition":"sum total; gross amount; whole mass; materials used in making concrete",
-         "swords":"total, sum total, sum, whole amount, grand total, totality, entirety, summation"
-      },
-      {
-         "cardid":"7",
-         "title":"Alacrity",
-         "definition":"promptness; cheerful willingness; eagerness; briskness",
-         "swords":"eagerness, willingness, readiness; enthusiasm, zeal"
-      },
-      {
-         "cardid":"8",
-         "title":"Amalgamate",
-         "definition":"combine; unite in one body; blend; merge",
-         "swords":"combine, merge, unite, integrate, fuse, blend, mingle"
-      },
-      {
-         "cardid":"9",
-         "title":"Ameliorate",
-         "definition":"improve; make better or more bearable; amend",
-         "swords":"alleviate, lighten, mitigate, amend, help, improve"
-      },
-      {
-         "cardid":"10",
-         "title":"Anachronistic",
-         "definition":"chronologically out of place; out of its proper time period",
-         "swords":"in vogue. antiquated. archaic. out-of-date"
-      },
-      {
-         "cardid":"11",
-         "title":"Anomaly",
-         "definition":"irregularity; abnormality; deviation from the norm; something difficult to classify",
-         "swords":"oddity, peculiarity, abnormality, irregularity"
-      },
-      {
-         "cardid":"12",
-         "title":"Antipathy",
-         "definition":"habitual aversion; intense dislike; natural repugnance; hatred",
-         "swords":"hostility, antagonism, animosity, aversion"
-      },
-      {
-         "cardid":"13",
-         "title":"Apocryphal",
-         "definition":"spurious; not authentic; invented rather than true; mythical; uncanonical (not part of an accepted body of literary work)",
-         "swords":"fictitious, made-up, untrue, fabricated, false, spurious"
-      },
-      {
-         "cardid":"14",
-         "title":"Apostate",
-         "definition":"one who abandons his religious faith or political beliefs; turncoat; deserter; defector; renegade; traitor; rebel",
-         "swords":"dissenter, heretic, nonconformist"
-      },
-      {
-         "cardid":"15",
-         "title":"Apprise",
-         "definition":"inform; make aware of; advise of; notify",
-         "swords":"inform, notify, tell, let know, advise, brief, intimate"
-      },
-      {
-         "cardid":"16",
-         "title":"Approbation",
-         "definition":"approval; good opinion; commendation; praise",
-         "swords":"approval, acceptance, assent, endorsement"
-      },
-      {
-         "cardid":"17",
-         "title":"Ascetic",
-         "definition":"one who practices self-denial; hermit; abstainer",
-         "swords":"austere, self-denying, abstinent, abstemious"
-      },
-      {
-         "cardid":"18",
-         "title":"Asperity",
-         "definition":"sharpness of temper; harshness of manner; severity; acrimony; acerbity; roughness of surface",
-         "swords":"harshness, sharpness, roughness, abrasiveness"
-      },
-      {
-         "cardid":"19",
-         "title":"Aspersion",
-         "definition":"slanderous remark; abusive attack; disparaging comment; slur; calumny",
-         "swords":"vilification, disparagement, denigration, defamation"
-      },
-      {
-         "cardid":"20",
-         "title":"Assiduous",
-         "definition":"diligent; industrious; unremitting; persistent",
-         "swords":"diligent, careful, meticulous, thorough"
-      },
-      {
-         "cardid":"21",
-         "title":"Associate",
-         "definition":"connect (someone or something) with something else in one's mind.",
-         "swords":"link, connect, couple, relate, identify, equate, bracket"
-      },
-      {
-         "cardid":"22",
-         "title":"Assuage",
-         "definition":"alleviate; mitigate; ease or lessen (pain); satisfy or appease (hunger); sooth or calm (anger)",
-         "swords":"relieve, ease, alleviate, soothe, mitigate"
-      },
-      {
-         "cardid":"23",
-         "title":"Astringent",
-         "definition":"harshly biting; sharp and penetrating; bitter in taste; caustic; causing contraction",
-         "swords":"severe, sharp, stern, harsh, rough"
-      },
-      {
-         "cardid":"24",
-         "title":"Attenuate",
-         "definition":"weaken or lessen (in density, force, or degree); make thinner or finer; become weak or fine; rarefy",
-         "swords":"weakened, reduced, lessened, decreased"
-      },
-      {
-         "cardid":"25",
-         "title":"Autonomy",
-         "definition":"political or personal independence; self-governance; freedom",
-         "swords":"self-government, independence, self-rule, home rule, sovereignty"
-      },
-      {
-         "cardid":"26",
-         "title":"Aver",
-         "definition":"assert confidently; affirm; declare; avow; profess; as used in law, state formally as a fact",
-         "swords":"affirm, allege, assert, avouch, avow, claim"
-      },
-      {
-         "cardid":"27",
-         "title":"Baleful",
-         "definition":"deadly; having a malign influence; ominous; threatening harm or misfortune; menacing",
-         "swords":"menacing, threatening, unfriendly, hostile"
-      },
-      {
-         "cardid":"28",
-         "title":"Banality",
-         "definition":"lack or originality; triteness; a commonplace expression",
-         "swords":"triteness, platitudinousness, vapidity, pedestrianism"
-      },
-      {
-         "cardid":"29",
-         "title":"Bane",
-         "definition":"cause of ruin or misery; blight; curse",
-         "swords":"scourge, ruin, death, plague, ruination, destruction"
-      },
-      {
-         "cardid":"30",
-         "title":"Beneficent",
-         "definition":"producing benefits; charitable; generous",
-         "swords":"benevolent, charitable, altruistic, humane"
-      },
-      {
-         "cardid":"31",
-         "title":"Blithe",
-         "definition":"showing a casual and cheerful indifference considered to be callous or improper.",
-         "swords":"carefree; happy; lighthearted"
-      },
-      {
-         "cardid":"32",
-         "title":"Bolster",
-         "definition":"support; prop up; reinforce",
-         "swords":"pillow, cushion, pad, support, rest"
-      },
-      {
-         "cardid":"33",
-         "title":"Bombastic",
-         "definition":"pretentious and long-winded; pompous; using inflated language",
-         "swords":"pompous, blustering, ranting, blathering"
-      },
-      {
-         "cardid":"34",
-         "title":"Boor",
-         "definition":"someone who acts in a rude or insensitive way; lout; oaf",
-         "swords":"lout, oaf, ruffian, hooligan, thug, rowdy"
-      },
-      {
-         "cardid":"35",
-         "title":"Brook",
-         "definition":"a small stream; allow; tolerate; put up with",
-         "swords":"streamlet, rivulet, rill, brooklet"
-      },
-      {
-         "cardid":"36",
-         "title":"Burgeon",
-         "definition":"develop rapidly; flourish; send out new buds",
-         "swords":""
-      },
-      {
-         "cardid":"37",
-         "title":"Burnish",
-         "definition":"make shiny by rubbing; polish",
-         "swords":"polish (up), shine, brighten, rub up/down"
-      },
-      {
-         "cardid":"38",
-         "title":"Cacophonous",
-         "definition":"discordant; unpleasant-sounding; grating; strident",
-         "swords":"loud, noisy, ear-splitting, blaring, booming"
-      },
-      {
-         "cardid":"39",
-         "title":"Castigation",
-         "definition":"verbal punishment; scolding; severe criticism; public censure",
-         "swords":"discipline, nemesis, penalty, punishment"
-      },
-      {
-         "cardid":"40",
-         "title":"Catalyst",
-         "definition":"someone or something that precipitates an action or change; substance that initiates or speeds up a chemical reaction without itself being affected",
-         "swords":"impetus, incentive, motivation, stimulant"
-      },
-      {
-         "cardid":"41",
-         "title":"Caustic",
-         "definition":"able to burn, dissolve, or corrode by chemical action; bitingly sarcastic; stinging; harsh; corrosive",
-         "swords":"corrosive, corroding, mordant, acid, alkaline, burning"
-      },
-      {
-         "cardid":"42",
-         "title":"Chicanery",
-         "definition":"trickery to deceive someone; deception; fraud; evasion",
-         "swords":"trickery, deception, deceit, deceitfulness, duplicity, dishonesty"
-      },
-      {
-         "cardid":"43",
-         "title":"Coagulate",
-         "definition":"thicken; congeal; clot",
-         "swords":"congeal, clot, cake, solidify, thicken, harden"
-      },
-      {
-         "cardid":"44",
-         "title":"Coda",
-         "definition":"concluding section of a musical or literary composition; something that rounds out, summarizes, or concludes",
-         "swords":"farewell, windup, adieu, climax "
-      },
-      {
-         "cardid":"45",
-         "title":"Cogent",
-         "definition":"convincing; well-argued; powerfully persuasive",
-         "swords":"convincing, compelling, strong, forceful, powerful"
-      },
-      {
-         "cardid":"46",
-         "title":"Commensurate",
-         "definition":"corresponding in extent, degree, amount, etc.; proportionate; adequate",
-         "swords":"equivalent, equal, corresponding, correspondent"
-      },
-      {
-         "cardid":"47",
-         "title":"Compendium",
-         "definition":"comprehensive though brief summary or a larger work; digest or abstract; inventory",
-         "swords":"collection, compilation, anthology, treasury"
-      },
-      {
-         "cardid":"48",
-         "title":"Complaisant",
-         "definition":"obliging; eager to please; overly polite",
-         "swords":"willing, assenting, acquiescent, agreeable, amenable"
-      },
-      {
-         "cardid":"49",
-         "title":"Compliant (1)",
-         "definition":"submissive; yielding; willing to obey; acquiescent",
-         "swords":"acquiescent, amenable, biddable, tractable"
-      },
-      {
-         "cardid":"50",
-         "title":"Compliant (2)",
-         "definition":"conforming to requirements; meeting official obligations",
-         "swords":"adaptable, obedient"
-      },
-      {
-         "cardid":"51",
-         "title":"Confound",
-         "definition":"confuse; mix up; puzzle; baffle; thwart; refute (an argument)",
-         "swords":"amaze, astonish, dumbfound, stagger, surprise"
-      },
-      {
-         "cardid":"52",
-         "title":"Connoisseur",
-         "definition":"person competent to act as a judge of art, etc.; person with discriminating taste",
-         "swords":"expert judge (of), authority (on), specialist (in); arbiter of taste, pundit, savant"
-      },
-      {
-         "cardid":"53",
-         "title":"Contention",
-         "definition":"claim or thesis; disagreement; debate; strife; conflict",
-         "swords":"argument, claim, plea, submission, allegation"
-      },
-      {
-         "cardid":"54",
-         "title":"Contrite",
-         "definition":"feeling or expressing remorse at the recognition that one has done wrong.",
-         "swords":"remorseful, repentant, penitent, regretful, full of regret, sorry"
-      },
-      {
-         "cardid":"55",
-         "title":"Conundrum",
-         "definition":"riddle, especially one involving a pun; puzzle; difficult problem; dilemma",
-         "swords":"riddle, puzzle, word game, anagram"
-      },
-      {
-         "cardid":"56",
-         "title":"converge",
-         "definition":"come together; approach an intersecting point, tend to meet",
-         "swords":""
-      },
-      {
-         "cardid":"57",
-         "title":"convoluted",
-         "definition":"intricate; highly complex, even devious; involved; coiled around",
-         "swords":""
-      },
-      {
-         "cardid":"58",
-         "title":"craven",
-         "definition":"cowardly; contemptibly timorous; spineless; pusillanimous",
-         "swords":""
-      },
-      {
-         "cardid":"59",
-         "title":"daunt",
-         "definition":"intimidate; frighten; dishearten",
-         "swords":""
-      },
-      {
-         "cardid":"60",
-         "title":"denigrate",
-         "definition":"blacken; belittle; defame; disparage",
-         "swords":""
-      },
-      {
-         "cardid":"61",
-         "title":"desiccate",
-         "definition":"dry up; preserve by removing moisture; dehydrate",
-         "swords":""
-      },
-      {
-         "cardid":"62",
-         "title":"desultory",
-         "definition":"aimless; haphazard; unfocused; disappointing in performance",
-         "swords":""
-      },
-      {
-         "cardid":"63",
-         "title":"diatribe",
-         "definition":"bitter, accusing criticism; tirade; sharp verbal attack; harangue",
-         "swords":""
-      },
-      {
-         "cardid":"64",
-         "title":"dichotomy",
-         "definition":"division; split; branching into two parts (especially contradictory ones); duality",
-         "swords":""
-      },
-      {
-         "cardid":"65",
-         "title":"diffidence",
-         "definition":"timidity; shyness; self-doubt; lack of self-confidence",
-         "swords":""
-      },
-      {
-         "cardid":"66",
-         "title":"diffuse",
-         "definition":"wordy; verbose; widely spread out (like a gas); scattered",
-         "swords":""
-      },
-      {
-         "cardid":"67",
-         "title":"dirge",
-         "definition":"lament, usually musical; funeral song or tune",
-         "swords":""
-      },
-      {
-         "cardid":"68",
-         "title":"disabuse",
-         "definition":"correct a false impression; free someone from an erroneous belief; undeceive",
-         "swords":""
-      },
-      {
-         "cardid":"69",
-         "title":"discrete",
-         "definition":"separate; unconnected; consisting of distinct parts; isolated; do not confuse with discreet, which means tactful",
-         "swords":""
-      },
-      {
-         "cardid":"70",
-         "title":"disingenuous",
-         "definition":"lacking candor; falsely pretending to be frank; insincere",
-         "swords":""
-      },
-      {
-         "cardid":"71",
-         "title":"disinterested",
-         "definition":"unbiased; impartial; neutral; dispassionate",
-         "swords":""
-      },
-      {
-         "cardid":"72",
-         "title":"disjointed",
-         "definition":"disconnected; incoherent; disorganized; taken apart at all the joints",
-         "swords":""
-      },
-      {
-         "cardid":"73",
-         "title":"disparate",
-         "definition":"fundamentally different; wholly dissimilar; unrelated; unlike",
-         "swords":""
-      },
-      {
-         "cardid":"74",
-         "title":"dissemble",
-         "definition":"feign; hide behind a false appearance; conceal one's motives; dissimulate",
-         "swords":""
-      },
-      {
-         "cardid":"75",
-         "title":"dissolution",
-         "definition":"disintegration; dissolving into parts; termination; indulgence in sensual pleasures; debauchery",
-         "swords":""
-      },
-      {
-         "cardid":"76",
-         "title":"dissonance",
-         "definition":"discord; inharmonious sound; cacophony; disagreement; incongruity",
-         "swords":""
-      },
-      {
-         "cardid":"77",
-         "title":"distend",
-         "definition":"expand; swell up; inflate",
-         "swords":""
-      },
-      {
-         "cardid":"78",
-         "title":"divest",
-         "definition":"strip; deprive; free from; take away; cease to hold (an investment)",
-         "swords":""
-      },
-      {
-         "cardid":"79",
-         "title":"ebullience",
-         "definition":"exuberance; overflowing enthusiasm; high-spirits; a boiling over",
-         "swords":""
-      },
-      {
-         "cardid":"80",
-         "title":"efficacy",
-         "definition":"effectiveness; power to bring about a desired effect; usefulness",
-         "swords":""
-      },
-      {
-         "cardid":"81",
-         "title":"effrontery",
-         "definition":"impudence; shameless boldness; sheer nerve; impertinence; insolence",
-         "swords":""
-      },
-      {
-         "cardid":"82",
-         "title":"elaboration",
-         "definition":"embellishment; amplification; refinement; addition of details; intricacy",
-         "swords":""
-      },
-      {
-         "cardid":"83",
-         "title":"elegy",
-         "definition":"mournful poem; lament for the dead; melancholy musical composition; the opposite of paean",
-         "swords":""
-      },
-      {
-         "cardid":"84",
-         "title":"elicit",
-         "definition":"draw forth; evoke; prompt; succeed in obtaining (information) from someone",
-         "swords":""
-      },
-      {
-         "cardid":"85",
-         "title":"empirical",
-         "definition":"based on experience; verifiable by experiment or observation; firsthand; pragmatic",
-         "swords":""
-      },
-      {
-         "cardid":"86",
-         "title":"encomium",
-         "definition":"eulogy; high praise; formal tribute; panagyric",
-         "swords":""
-      },
-      {
-         "cardid":"87",
-         "title":"endemic",
-         "definition":"native; indigenous; prevalent in a particular region or among a particular group",
-         "swords":""
-      },
-      {
-         "cardid":"88",
-         "title":"enervate",
-         "definition":"weaken; debilitate; render feeble; drain",
-         "swords":""
-      },
-      {
-         "cardid":"89",
-         "title":"engender",
-         "definition":"cause; produce; stir up; prompt; create; breed",
-         "swords":""
-      },
-      {
-         "cardid":"90",
-         "title":"equanimity",
-         "definition":"composure; equilibrium; calmness of temperament; self-posession",
-         "swords":""
-      },
-      {
-         "cardid":"91",
-         "title":"equivocate",
-         "definition":"lie; prevaricate; speak misleadingly; hedge",
-         "swords":""
-      },
-      {
-         "cardid":"92",
-         "title":"erudition",
-         "definition":"deep scholarly knowledge; scholarship; learning",
-         "swords":""
-      },
-      {
-         "cardid":"93",
-         "title":"eulogize",
-         "definition":"praise highly; extol; panegyrize; give or write a laudatory speech",
-         "swords":""
-      },
-      {
-         "cardid":"94",
-         "title":"euphemism",
-         "definition":"mild expression used in place of an unpleasant one; act of substituting an inoffensive term",
-         "swords":""
-      },
-      {
-         "cardid":"95",
-         "title":"exculpate",
-         "definition":"clear from blame; exonerate; vindicate; acquit",
-         "swords":""
-      },
-      {
-         "cardid":"96",
-         "title":"exigent",
-         "definition":"urgent; pressing; exacting; taxing; requiring immediate action",
-         "swords":""
-      },
-      {
-         "cardid":"97",
-         "title":"extrapolation",
-         "definition":"inference based on known facts; conjecture; estimate; projection",
-         "swords":""
-      },
-      {
-         "cardid":"98",
-         "title":"facetious",
-         "definition":"humorous; joking (often inappropriately); not seriously intended; flippant",
-         "swords":""
-      },
-      {
-         "cardid":"99",
-         "title":"fallacy",
-         "definition":"mistaken idea based on flawed reasoning; invalid argument; erroneousness",
-         "swords":""
-      },
-      {
-         "cardid":"100",
-         "title":"fatuous",
-         "definition":"brainless; inane; smugly foolish; asinine",
-         "swords":""
-      },
-      {
-         "cardid":"101",
-         "title":"fawning",
-         "definition":"obsequious; servile; sycophantic; bootlicking; toadying",
-         "swords":""
-      },
-      {
-         "cardid":"102",
-         "title":"felicitous",
-         "definition":"appropriate; apt; well-chosen; fortunate",
-         "swords":""
-      },
-      {
-         "cardid":"103",
-         "title":"flag",
-         "definition":"lose vigor; fade; wane; droop; grow feeble",
-         "swords":""
-      },
-      {
-         "cardid":"104",
-         "title":"fledgling",
-         "definition":"young; inexperienced; new; untried",
-         "swords":""
-      },
-      {
-         "cardid":"105",
-         "title":"florid",
-         "definition":"overly ornate; flowery; grandiloquent; ruddy; reddish",
-         "swords":""
-      },
-      {
-         "cardid":"106",
-         "title":"flout",
-         "definition":"reject mockingly; show contempt for; scoff at; disregard scornfully",
-         "swords":""
-      },
-      {
-         "cardid":"107",
-         "title":"foment",
-         "definition":"stir up; incite; instigate; stimulate; provoke",
-         "swords":""
-      },
-      {
-         "cardid":"108",
-         "title":"forestall",
-         "definition":"prevent by taking action in advance; hinder; preclude; avert",
-         "swords":""
-      },
-      {
-         "cardid":"109",
-         "title":"frenetic",
-         "definition":"frenzied; frantic; hectic; wildly agitated; uncontrolled",
-         "swords":""
-      },
-      {
-         "cardid":"110",
-         "title":"gainsay",
-         "definition":"contradict; take exception to; dispute; deny; oppose",
-         "swords":""
-      },
-      {
-         "cardid":"111",
-         "title":"garrulity",
-         "definition":"talkativeness; loquacity; volubility",
-         "swords":""
-      },
-      {
-         "cardid":"112",
-         "title":"grandiloquent",
-         "definition":"lofty in style; using inflated language; pompous; bombastic",
-         "swords":""
-      },
-      {
-         "cardid":"113",
-         "title":"harangue",
-         "definition":"intense verbal attack; passionate, vehement speech; diatribe; tirade",
-         "swords":""
-      },
-      {
-         "cardid":"114",
-         "title":"heterodox",
-         "definition":"unorthodox; unconventional; dissident; disagreeing with accepted beliefs",
-         "swords":""
-      },
-      {
-         "cardid":"115",
-         "title":"homogeneity",
-         "definition":"uniformity of structure of composition; formation out of similar elements",
-         "swords":""
-      },
-      {
-         "cardid":"116",
-         "title":"hyperbolic",
-         "definition":"excessively exaggerated; overstated; inflated beyond reason",
-         "swords":""
-      },
-      {
-         "cardid":"117",
-         "title":"iconoclastic",
-         "definition":"attacking cherished traditions; nonconformist; rebellious; dissident",
-         "swords":""
-      },
-      {
-         "cardid":"118",
-         "title":"idiosyncrasy",
-         "definition":"individual trait, usually odd in nature; eccentricity; quirk; foible",
-         "swords":""
-      },
-      {
-         "cardid":"119",
-         "title":"idolatrous",
-         "definition":"blindly devoted; excessively adoring; idol-worshipping; idolizing",
-         "swords":""
-      },
-      {
-         "cardid":"120",
-         "title":"idyllic",
-         "definition":"charmingly carefree and simple; unspoiled; serene; pastoral",
-         "swords":""
-      },
-      {
-         "cardid":"130",
-         "title":"illusory",
-         "definition":"deceptive; false; misleading; unreal",
-         "swords":""
-      },
-      {
-         "cardid":"131",
-         "title":"impassive",
-         "definition":"without feeling; imperturbable; stoical; phlegmatic; expressionless",
-         "swords":""
-      },
-      {
-         "cardid":"132",
-         "title":"imperiousness",
-         "definition":"overbearing manner; domineering attitude; arrogance; lordliness",
-         "swords":""
-      },
-      {
-         "cardid":"133",
-         "title":"impermeable",
-         "definition":"impervious; not permitting passage through its substance; impenetrable; waterproof",
-         "swords":""
-      },
-      {
-         "cardid":"134",
-         "title":"imperturbable",
-         "definition":"unflappable; unflustered; composed; calm",
-         "swords":""
-      },
-      {
-         "cardid":"135",
-         "title":"impervious",
-         "definition":"impenetrable; incapable of being damaged or distressed; invulnerable; incapable of being affected",
-         "swords":""
-      },
-      {
-         "cardid":"136",
-         "title":"implacable",
-         "definition":"unable to be appeased; inexorable; unbending; merciless; relentless",
-         "swords":""
-      },
-      {
-         "cardid":"137",
-         "title":"implicit",
-         "definition":"understood, but not directly stated; implied; unquestioning",
-         "swords":""
-      },
-      {
-         "cardid":"138",
-         "title":"impregnable",
-         "definition":"invulnerable; invincible; difficult to refute; capable of conceiving",
-         "swords":""
-      },
-      {
-         "cardid":"139",
-         "title":"inchoate",
-         "definition":"not fully formed; incipient; rudimentary; undeveloped; lacking order",
-         "swords":""
-      },
-      {
-         "cardid":"140",
-         "title":"inconsequential",
-         "definition":"insignificant; unimportant; trivial; illogical",
-         "swords":""
-      },
-      {
-         "cardid":"141",
-         "title":"indeterminate",
-         "definition":"uncertain; not clearly fixed; undefined; unsettled; vague",
-         "swords":""
-      },
-      {
-         "cardid":"142",
-         "title":"indigent",
-         "definition":"extremely poor; penurious; destitute; impecunious",
-         "swords":""
-      },
-      {
-         "cardid":"143",
-         "title":"inert",
-         "definition":"inactive; motionless; immobile; incapable of reacting chemically",
-         "swords":""
-      },
-      {
-         "cardid":"144",
-         "title":"ingenuous",
-         "definition":"naive and trusting; artless; unsophisticated; innocent",
-         "swords":""
-      },
-      {
-         "cardid":"145",
-         "title":"innocuousness",
-         "definition":"harmlessness; inoffensiveness; insipidity; innocence",
-         "swords":""
-      },
-      {
-         "cardid":"146",
-         "title":"insensible",
-         "definition":"incapable of feeling; unresponsive; emotionless; unfeeling; unaware",
-         "swords":""
-      },
-      {
-         "cardid":"147",
-         "title":"insularity",
-         "definition":"narrow-mindedness; provinciality; parochialism; isolation",
-         "swords":""
-      },
-      {
-         "cardid":"148",
-         "title":"intractable",
-         "definition":"stubborn; unyielding; obstinate; obdurate; unruly; pigheaded",
-         "swords":""
-      },
-      {
-         "cardid":"149",
-         "title":"intransigence",
-         "definition":"stubbornness; refusal of any compromise; obstinacy; obduracy; extreme firmness",
-         "swords":""
-      },
-      {
-         "cardid":"150",
-         "title":"inundate",
-         "definition":"overwhelm; flood; submerge; deluge; swamp",
-         "swords":""
-      },
-      {
-         "cardid":"151",
-         "title":"inured",
-         "definition":"accustomed; hardened; toughened; habituated",
-         "swords":""
-      },
-      {
-         "cardid":"152",
-         "title":"invective",
-         "definition":"abuse; verbal attack; vituperation; violent censure",
-         "swords":""
-      },
-      {
-         "cardid":"153",
-         "title":"irascible",
-         "definition":"irritable; touchy; testy; quick-tempered",
-         "swords":""
-      },
-      {
-         "cardid":"154",
-         "title":"irresolute",
-         "definition":"uncertain how to act; unsure; weak; indecisive; vacillating",
-         "swords":""
-      },
-      {
-         "cardid":"155",
-         "title":"lachrymose",
-         "definition":"tearful; weeping; sorrowful; melancholy; dolorous",
-         "swords":""
-      },
-      {
-         "cardid":"156",
-         "title":"lassitude",
-         "definition":"languor; weariness; lack of energy",
-         "swords":""
-      },
-      {
-         "cardid":"157",
-         "title":"latent",
-         "definition":"potential but undeveloped; dormant; hidden",
-         "swords":""
-      },
-      {
-         "cardid":"158",
-         "title":"loquacious",
-         "definition":"talkative; voluble; garrulous; gabby; long-winded",
-         "swords":""
-      },
-      {
-         "cardid":"159",
-         "title":"lumber",
-         "definition":"move heavily; shamble; plod",
-         "swords":""
-      },
-      {
-         "cardid":"160",
-         "title":"luminous",
-         "definition":"shining; issuing light; glowing; gleaming",
-         "swords":""
-      },
-      {
-         "cardid":"161",
-         "title":"magnanimity",
-         "definition":"generosity; greatness of spirit; nobility; high-mindedness",
-         "swords":""
-      },
-      {
-         "cardid":"162",
-         "title":"malinger",
-         "definition":"shirk; feign illness to evade work",
-         "swords":""
-      },
-      {
-         "cardid":"163",
-         "title":"malleable",
-         "definition":"capable of being shaped by pounding; soft and pliable; impressionable",
-         "swords":""
-      },
-      {
-         "cardid":"164",
-         "title":"maverick",
-         "definition":"rebel; nonconformist; eccentric; oddball",
-         "swords":""
-      },
-      {
-         "cardid":"165",
-         "title":"mendacious",
-         "definition":"untruthful; lying; habitually dishonest; deceitful",
-         "swords":""
-      },
-      {
-         "cardid":"166",
-         "title":"mercurial",
-         "definition":"capricious; unpredictable; inconstant; fickle; volatile; lively",
-         "swords":""
-      },
-      {
-         "cardid":"167",
-         "title":"metamorphosis",
-         "definition":"change of form; transformation; total alteration; transfiguration",
-         "swords":""
-      },
-      {
-         "cardid":"168",
-         "title":"misanthrope",
-         "definition":"one who hates or distrusts people",
-         "swords":""
-      },
-      {
-         "cardid":"169",
-         "title":"morose",
-         "definition":"melancholy; dejected; gloomy; sullen",
-         "swords":""
-      },
-      {
-         "cardid":"170",
-         "title":"neophyte",
-         "definition":"novice; tyro; beginner; tenderfoot",
-         "swords":""
-      },
-      {
-         "cardid":"171",
-         "title":"obduracy",
-         "definition":"stubbornness; obstinacy; inflexibility; intransigence",
-         "swords":""
-      },
-      {
-         "cardid":"172",
-         "title":"obsequious",
-         "definition":"servile; sycophantic; fawning; slavishly attentive",
-         "swords":""
-      },
-      {
-         "cardid":"173",
-         "title":"obviate",
-         "definition":"prevent (problems); preclude; make unnecessary",
-         "swords":""
-      },
-      {
-         "cardid":"174",
-         "title":"occlude",
-         "definition":"shut; close; clog; obstruct; block",
-         "swords":""
-      },
-      {
-         "cardid":"175",
-         "title":"officious",
-         "definition":"meddlesome; interfering; excessively push in offering one's services",
-         "swords":""
-      },
-      {
-         "cardid":"176",
-         "title":"onerous",
-         "definition":"burdensome; heavy; oppressive",
-         "swords":""
-      },
-      {
-         "cardid":"177",
-         "title":"opprobrium",
-         "definition":"ignominy; disgrace caused y shameful behavior; state of dishonor; obloquy",
-         "swords":""
-      },
-      {
-         "cardid":"178",
-         "title":"oscillate",
-         "definition":"swing to and fro like a pendulum; vacillate; waver",
-         "swords":""
-      },
-      {
-         "cardid":"179",
-         "title":"ostentation",
-         "definition":"pretentious show - of wealth; gaudy display - often vulgar; excessive showiness; pretentiousness",
-         "swords":""
-      },
-      {
-         "cardid":"180",
-         "title":"palpable",
-         "definition":"tangible; perceptible by touch; touchable; easily perceived; obvious",
-         "swords":""
-      },
-      {
-         "cardid":"181",
-         "title":"panegyric",
-         "definition":"eulogistic oration; encomium; tribute; formal expression of praise",
-         "swords":""
-      },
-      {
-         "cardid":"182",
-         "title":"paragon",
-         "definition":"model of perfection; pattern of excellence; peerless example; ideal instance",
-         "swords":""
-      },
-      {
-         "cardid":"183",
-         "title":"parsimony",
-         "definition":"excessive frugality; stinginess; meanness",
-         "swords":""
-      },
-      {
-         "cardid":"184",
-         "title":"pathological",
-         "definition":"relating to the study of disease; caused by disease; manifesting compulsive behavior; abnormal",
-         "swords":""
-      },
-      {
-         "cardid":"185",
-         "title":"paucity",
-         "definition":"scarcity; dearth; scantiness; insufficiency of number; fewness",
-         "swords":""
-      },
-      {
-         "cardid":"186",
-         "title":"peccadillo",
-         "definition":"minor sin; slight offense; trifling fault; slip",
-         "swords":""
-      },
-      {
-         "cardid":"187",
-         "title":"pedantic",
-         "definition":"showing off one's learning; overly fussy about minute details; didactic; bookish; nitpicking",
-         "swords":""
-      },
-      {
-         "cardid":"188",
-         "title":"penchant",
-         "definition":"strong inclination; decided taste; definite liking; predilection",
-         "swords":""
-      },
-      {
-         "cardid":"189",
-         "title":"penury",
-         "definition":"extreme poverty; destitution; indigence; pennilessness; impecuniousness",
-         "swords":""
-      },
-      {
-         "cardid":"190",
-         "title":"perennial",
-         "definition":"lasting many years; enduring; recurring again and again; continuing",
-         "swords":""
-      },
-      {
-         "cardid":"191",
-         "title":"perfidious",
-         "definition":"disloyal; treacherous; faithless; deceitful; traitorous",
-         "swords":""
-      },
-      {
-         "cardid":"192",
-         "title":"perfunctory",
-         "definition":"superficial; cursory; not thorough; indifferent; negligent",
-         "swords":""
-      },
-      {
-         "cardid":"193",
-         "title":"permeable",
-         "definition":"penetrable; porous; allowing liquids or gas to pass through",
-         "swords":""
-      },
-      {
-         "cardid":"194",
-         "title":"phlegmatic",
-         "definition":"not easily disturbed or excited; calm; composed; unruffled; sluggish",
-         "swords":""
-      },
-      {
-         "cardid":"195",
-         "title":"plasticity",
-         "definition":"physical malleability; ability to be shaped without breaking; capability of being molded",
-         "swords":""
-      },
-      {
-         "cardid":"196",
-         "title":"platitude",
-         "definition":"trite remark; commonplace statement; banal comment; cliché; bromide",
-         "swords":""
-      },
-      {
-         "cardid":"197",
-         "title":"plethora",
-         "definition":"superabundance; excess; glut; surfeit",
-         "swords":""
-      },
-      {
-         "cardid":"198",
-         "title":"plummet",
-         "definition":"plunge; drop sharply; fall swiftly; decline steeply",
-         "swords":""
-      },
-      {
-         "cardid":"199",
-         "title":"porous",
-         "definition":"sievelike; permeable; allowing passage of air or liquids",
-         "swords":""
-      },
-      {
-         "cardid":"200",
-         "title":"preamble",
-         "definition":"preface; introduction; foreword; prologue; preliminary circumstance",
-         "swords":""
-      },
-      {
-         "cardid":"201",
-         "title":"precarious",
-         "definition":"dangerous; risky; perilous; uncertain; insecure; unreliable",
-         "swords":""
-      },
-      {
-         "cardid":"202",
-         "title":"precipitate",
-         "definition":"hasty; rash; sudden; abrupt; headlong; impetuous; rapid",
-         "swords":""
-      },
-      {
-         "cardid":"203",
-         "title":"precursor",
-         "definition":"forerunner; predecessor; herald; harbinger; biochemical substance that gives rise to another substance, as in a chemical reaction",
-         "swords":""
-      },
-      {
-         "cardid":"204",
-         "title":"prevaricate",
-         "definition":"lie; speak misleadingly; intentionally misstate; equivocate; fib",
-         "swords":""
-      },
-      {
-         "cardid":"205",
-         "title":"pristine",
-         "definition":"unspoiled; unsullied; unpolluted; undefiled; pure; immaculately clean; primitive",
-         "swords":""
-      },
-      {
-         "cardid":"206",
-         "title":"probity",
-         "definition":"integrity; uprightness; rectitude; incorruptibility; honesty; righteousness",
-         "swords":""
-      },
-      {
-         "cardid":"207",
-         "title":"problematic",
-         "definition":"doubtful; unsettled; unresolved; uncertain baffling; debatable; unsure",
-         "swords":""
-      },
-      {
-         "cardid":"208",
-         "title":"prodigality",
-         "definition":"wasteful extravagance; recklessness with money; uncontrolled spending; lavishness",
-         "swords":""
-      },
-      {
-         "cardid":"209",
-         "title":"profligacy",
-         "definition":"dissipation; dissoluteness; licentiousness; debauchery; depravity; wasteful extravagance",
-         "swords":""
-      },
-      {
-         "cardid":"210",
-         "title":"prohibitive",
-         "definition":"tending to prevent or discourage something's purchase or use; inclined to prevent or forbid",
-         "swords":""
-      },
-      {
-         "cardid":"211",
-         "title":"proliferate",
-         "definition":"increase in number; spread rapidly; multiply",
-         "swords":""
-      },
-      {
-         "cardid":"212",
-         "title":"propensity",
-         "definition":"innate inclination; bent; natural tendency; proclivity; penchant; predisposition",
-         "swords":""
-      },
-      {
-         "cardid":"213",
-         "title":"propitiate",
-         "definition":"appease; conciliate; mollify; placate; sooth; pacify",
-         "swords":""
-      },
-      {
-         "cardid":"214",
-         "title":"propriety",
-         "definition":"fitness; appropriateness; correctness of behavior; conformity to conventional standards; decorum; seemliness; decency",
-         "swords":""
-      },
-      {
-         "cardid":"215",
-         "title":"proscribe",
-         "definition":"denounce; condemn; prohibit; forbid; ostracize; banish; outlaw; ban",
-         "swords":""
-      },
-      {
-         "cardid":"216",
-         "title":"pundit",
-         "definition":"learned authority; authoritative critic or commentator; scholarly expert; expert analyst",
-         "swords":""
-      },
-      {
-         "cardid":"217",
-         "title":"pungent",
-         "definition":"acrid-tasting; strong-smelling; stinging; caustic; bitter; mordant; penetrating; mentally keen",
-         "swords":""
-      },
-      {
-         "cardid":"218",
-         "title":"quiescent",
-         "definition":"at rest; still; dormant; temporarily inactive; quiet; motionless",
-         "swords":""
-      },
-      {
-         "cardid":"219",
-         "title":"rarefied",
-         "definition":"made less dense (of a gas); elevated in nature; lofty; refined; select; esoteric",
-         "swords":""
-      },
-      {
-         "cardid":"220",
-         "title":"recalcitrant",
-         "definition":"obstinately stubborn; determined to resist authority; unruly; intractable; refractory; fractious",
-         "swords":""
-      },
-      {
-         "cardid":"221",
-         "title":"recant",
-         "definition":"disclaim; disavow; retract a previous statement; repudiate; openly confess error",
-         "swords":""
-      },
-      {
-         "cardid":"222",
-         "title":"reclusive",
-         "definition":"solitary; seeking isolation; withdrawn from society; providing seclusion; cloistered",
-         "swords":""
-      },
-      {
-         "cardid":"223",
-         "title":"recondite",
-         "definition":"difficult to understand; profound; abstruse; esoteric; obscure; mysterious; secret",
-         "swords":""
-      },
-      {
-         "cardid":"224",
-         "title":"redoubtable",
-         "definition":"formidable; causing fear or awe; commanding respect",
-         "swords":""
-      },
-      {
-         "cardid":"225",
-         "title":"refractory",
-         "definition":"intractable; unruly; fractious; recalcitrant; obstinately stubborn; resistant to treatment",
-         "swords":""
-      },
-      {
-         "cardid":"226",
-         "title":"reprobate",
-         "definition":"unprincipled or evil person; depraved individual; person hardened by sin; scoundrel; wastrel; miscreant",
-         "swords":""
-      },
-      {
-         "cardid":"227",
-         "title":"rescind",
-         "definition":"revoke; repeal; annul; abrogate; cancel; nullify; withdraw; countermand",
-         "swords":""
-      },
-      {
-         "cardid":"228",
-         "title":"salubrious",
-         "definition":"conducive to good health; healthful; beneficial",
-         "swords":""
-      },
-      {
-         "cardid":"229",
-         "title":"sanction",
-         "definition":"officially authorize; approve; allow; encourage; permit; agree to",
-         "swords":""
-      },
-      {
-         "cardid":"230",
-         "title":"satiate",
-         "definition":"surfeit; satisfy fully, or excessively; glut; gore; sate",
-         "swords":""
-      },
-      {
-         "cardid":"231",
-         "title":"secrete",
-         "definition":"hide away; conceal; cache; produce and release a bodily substance (digestive juices, hormones, etc.)",
-         "swords":""
-      },
-      {
-         "cardid":"232",
-         "title":"shard",
-         "definition":"broken piece, generally of pottery; fragment of earthenware",
-         "swords":""
-      },
-      {
-         "cardid":"233",
-         "title":"solicitous",
-         "definition":"anxious; worried; apprehensive; concerned; mindful; eager; extremely careful",
-         "swords":""
-      },
-      {
-         "cardid":"234",
-         "title":"speciousness",
-         "definition":"seeming plausibility; superficial but misleading appearance of correctness; fallaciousness; deceptiveness",
-         "swords":""
-      },
-      {
-         "cardid":"235",
-         "title":"stigma",
-         "definition":"mark of disgrace; stain; blot; blemish; badge of infamy; taint",
-         "swords":""
-      },
-      {
-         "cardid":"236",
-         "title":"stint",
-         "definition":"be frugal; set limit; be thrifty; restrict; be sparing; scrimp",
-         "swords":""
-      },
-      {
-         "cardid":"237",
-         "title":"stipulate",
-         "definition":"make express conditions; specify; arrange specifically; require; expressly demand; insist on",
-         "swords":""
-      },
-      {
-         "cardid":"238",
-         "title":"stolid",
-         "definition":"impassive; unemotional; not easily excited; indifferent; phlegmatic; dull",
-         "swords":""
-      },
-      {
-         "cardid":"239",
-         "title":"striated",
-         "definition":"marked with parallel bands; grooved; furrowed; ridged; striped",
-         "swords":""
-      },
-      {
-         "cardid":"240",
-         "title":"supposition",
-         "definition":"assumption; surmise; hypothesis; presupposition",
-         "swords":""
-      },
-      {
-         "cardid":"241",
-         "title":"tacit",
-         "definition":"understood without being put into words; unspoken; silent; unvoiced; implied without being openly stated; unexpressed; implicit",
-         "swords":""
-      },
-      {
-         "cardid":"242",
-         "title":"tangential",
-         "definition":"peripheral; digressive; divergent; only superficially pertinent; off on a tangent",
-         "swords":""
-      },
-      {
-         "cardid":"243",
-         "title":"tenuous",
-         "definition":"thin; threadlike; attenuated; unsubstantiated; weak; flimsy; insignificant; unimportant; vague",
-         "swords":""
-      },
-      {
-         "cardid":"244",
-         "title":"tirade",
-         "definition":"bitter outburst; vehement denunciation; extended scolding; harangue; diatribe",
-         "swords":""
-      },
-      {
-         "cardid":"245",
-         "title":"torpor",
-         "definition":"apathy; sluggishness; listless indifference; lethargy; stolidity; inertia; dormancy",
-         "swords":""
-      },
-      {
-         "cardid":"246",
-         "title":"tortuous",
-         "definition":"full of twists and turns; winding; curvy; crooked; misleadingly indirect; circuitous; roundabout; serpentine; intricate",
-         "swords":""
-      },
-      {
-         "cardid":"247",
-         "title":"tout",
-         "definition":"solicit support, business; publicize; promote; advertise; praise excessively",
-         "swords":""
-      },
-      {
-         "cardid":"248",
-         "title":"tractable",
-         "definition":"docile; amenable; yielding; submissive; readily compliant; complaisant; malleable",
-         "swords":""
-      },
-      {
-         "cardid":"249",
-         "title":"transgression",
-         "definition":"violation of a law; sin; infraction; exceeding of bounds; wrongdoing; breach",
-         "swords":""
-      },
-      {
-         "cardid":"250",
-         "title":"truculence",
-         "definition":"belligerence; aggressiveness; hostility; ferocity; pugnacity; fierceness; being disposed to fight",
-         "swords":""
-      },
-      {
-         "cardid":"251",
-         "title":"veneration",
-         "definition":"profound respect; reverence; awe",
-         "swords":""
-      },
-      {
-         "cardid":"252",
-         "title":"veracious",
-         "definition":"truthful; honest; accurate in content; precise",
-         "swords":""
-      },
-      {
-         "cardid":"253",
-         "title":"viable",
-         "definition":"practical; workable; feasible; capable of maintaining life; capable of growth and expansion; capable of success",
-         "swords":""
-      },
-      {
-         "cardid":"254",
-         "title":"virtuosity",
-         "definition":"extreme ability in an artistic form; masterly skill or technique",
-         "swords":""
-      },
-      {
-         "cardid":"256",
-         "title":"viscous",
-         "definition":"sticky; thick; adhesive; gluey; syrupy",
-         "swords":""
-      },
-      {
-         "cardid":"257",
-         "title":"vituperative",
-         "definition":"abusive; scathing; venomous; scolding; denunciatory; censorious; defamatory; vilifying; insulting",
-         "swords":""
-      },
-      {
-         "cardid":"258",
-         "title":"warranted",
-         "definition":"justified; authorized; sanctioned; defensible; guaranteed",
-         "swords":""
-      },
-      {
-         "cardid":"259",
-         "title":"welter",
-         "definition":"bewildering jumble; muddle; clutter; confusion; turmoil; tumult",
-         "swords":""
-      },
-      {
-         "cardid":"260",
-         "title":"zealotry",
-         "definition":"fanaticism intolerance of conflicting beliefs, undue enthusiasm",
-         "swords":""
-      },
-      {
-         "cardid":"261",
-         "title":"zenith",
-         "definition":"highest point; point directly overhead in the sky (nadir is the opposite); summit; apex; peak; culmination",
-         "swords":""
-      }
+  "results": [
+    {
+      "cardid": "1",
+      "title": "Abate",
+      "definition": "subside; moderate; lessen in intensity; put an end to",
+      "swords": "moderate, decline, fade, dwindle, slacken, recede, "
+    },
+    {
+      "cardid": "2",
+      "title": "Aberrant",
+      "definition": "abnormal, deviant",
+      "swords":
+        "anomalous, atypical, especial, exceeding, exceptional, extraordinary, freak, odd, peculiar"
+    },
+    {
+      "cardid": "3",
+      "title": "Abeyance",
+      "definition": "temporary inactivity; suspended action",
+      "swords":
+        "awaiting decision, awaiting action, uncertainty, suspense, remission, reserve"
+    },
+    {
+      "cardid": "4",
+      "title": "Abstemious",
+      "definition": "sparing in eating and drinking; temperate",
+      "swords":
+        "self-disciplined, self-denying, restrained, self-restrained, non-indulgent, sober, ascetic"
+    },
+    {
+      "cardid": "5",
+      "title": "Adulterate",
+      "definition":
+        "make impure by adding inferior or tainted substances; contaminate, debase",
+      "swords":
+        "make impure, degrade, debase, spoil, taint, defile, contaminate, pollute"
+    },
+    {
+      "cardid": "6",
+      "title": "Aggregate",
+      "definition":
+        "sum total; gross amount; whole mass; materials used in making concrete",
+      "swords":
+        "total, sum total, sum, whole amount, grand total, totality, entirety, summation"
+    },
+    {
+      "cardid": "7",
+      "title": "Alacrity",
+      "definition": "promptness; cheerful willingness; eagerness; briskness",
+      "swords": "eagerness, willingness, readiness; enthusiasm, zeal"
+    },
+    {
+      "cardid": "8",
+      "title": "Amalgamate",
+      "definition": "combine; unite in one body; blend; merge",
+      "swords": "combine, merge, unite, integrate, fuse, blend, mingle"
+    },
+    {
+      "cardid": "9",
+      "title": "Ameliorate",
+      "definition": "improve; make better or more bearable; amend",
+      "swords": "alleviate, lighten, mitigate, amend, help, improve"
+    },
+    {
+      "cardid": "10",
+      "title": "Anachronistic",
+      "definition":
+        "chronologically out of place; out of its proper time period",
+      "swords": "in vogue. antiquated. archaic. out-of-date"
+    },
+    {
+      "cardid": "11",
+      "title": "Anomaly",
+      "definition":
+        "irregularity; abnormality; deviation from the norm; something difficult to classify",
+      "swords": "oddity, peculiarity, abnormality, irregularity"
+    },
+    {
+      "cardid": "12",
+      "title": "Antipathy",
+      "definition":
+        "habitual aversion; intense dislike; natural repugnance; hatred",
+      "swords": "hostility, antagonism, animosity, aversion"
+    },
+    {
+      "cardid": "13",
+      "title": "Apocryphal",
+      "definition":
+        "spurious; not authentic; invented rather than true; mythical; uncanonical (not part of an accepted body of literary work)",
+      "swords": "fictitious, made-up, untrue, fabricated, false, spurious"
+    },
+    {
+      "cardid": "14",
+      "title": "Apostate",
+      "definition":
+        "one who abandons his religious faith or political beliefs; turncoat; deserter; defector; renegade; traitor; rebel",
+      "swords": "dissenter, heretic, nonconformist"
+    },
+    {
+      "cardid": "15",
+      "title": "Apprise",
+      "definition": "inform; make aware of; advise of; notify",
+      "swords": "inform, notify, tell, let know, advise, brief, intimate"
+    },
+    {
+      "cardid": "16",
+      "title": "Approbation",
+      "definition": "approval; good opinion; commendation; praise",
+      "swords": "approval, acceptance, assent, endorsement"
+    },
+    {
+      "cardid": "17",
+      "title": "Ascetic",
+      "definition": "one who practices self-denial; hermit; abstainer",
+      "swords": "austere, self-denying, abstinent, abstemious"
+    },
+    {
+      "cardid": "18",
+      "title": "Asperity",
+      "definition":
+        "sharpness of temper; harshness of manner; severity; acrimony; acerbity; roughness of surface",
+      "swords": "harshness, sharpness, roughness, abrasiveness"
+    },
+    {
+      "cardid": "19",
+      "title": "Aspersion",
+      "definition":
+        "slanderous remark; abusive attack; disparaging comment; slur; calumny",
+      "swords": "vilification, disparagement, denigration, defamation"
+    },
+    {
+      "cardid": "20",
+      "title": "Assiduous",
+      "definition": "diligent; industrious; unremitting; persistent",
+      "swords": "diligent, careful, meticulous, thorough"
+    },
+    {
+      "cardid": "21",
+      "title": "Associate",
+      "definition":
+        "connect (someone or something) with something else in one's mind.",
+      "swords": "link, connect, couple, relate, identify, equate, bracket"
+    },
+    {
+      "cardid": "22",
+      "title": "Assuage",
+      "definition":
+        "alleviate; mitigate; ease or lessen (pain); satisfy or appease (hunger); sooth or calm (anger)",
+      "swords": "relieve, ease, alleviate, soothe, mitigate"
+    },
+    {
+      "cardid": "23",
+      "title": "Astringent",
+      "definition":
+        "harshly biting; sharp and penetrating; bitter in taste; caustic; causing contraction",
+      "swords": "severe, sharp, stern, harsh, rough"
+    },
+    {
+      "cardid": "24",
+      "title": "Attenuate",
+      "definition":
+        "weaken or lessen (in density, force, or degree); make thinner or finer; become weak or fine; rarefy",
+      "swords": "weakened, reduced, lessened, decreased"
+    },
+    {
+      "cardid": "25",
+      "title": "Autonomy",
+      "definition":
+        "political or personal independence; self-governance; freedom",
+      "swords":
+        "self-government, independence, self-rule, home rule, sovereignty"
+    },
+    {
+      "cardid": "26",
+      "title": "Aver",
+      "definition":
+        "assert confidently; affirm; declare; avow; profess; as used in law, state formally as a fact",
+      "swords": "affirm, allege, assert, avouch, avow, claim"
+    },
+    {
+      "cardid": "27",
+      "title": "Baleful",
+      "definition":
+        "deadly; having a malign influence; ominous; threatening harm or misfortune; menacing",
+      "swords": "menacing, threatening, unfriendly, hostile"
+    },
+    {
+      "cardid": "28",
+      "title": "Banality",
+      "definition": "lack or originality; triteness; a commonplace expression",
+      "swords": "triteness, platitudinousness, vapidity, pedestrianism"
+    },
+    {
+      "cardid": "29",
+      "title": "Bane",
+      "definition": "cause of ruin or misery; blight; curse",
+      "swords": "scourge, ruin, death, plague, ruination, destruction"
+    },
+    {
+      "cardid": "30",
+      "title": "Beneficent",
+      "definition": "producing benefits; charitable; generous",
+      "swords": "benevolent, charitable, altruistic, humane"
+    },
+    {
+      "cardid": "31",
+      "title": "Blithe",
+      "definition":
+        "showing a casual and cheerful indifference considered to be callous or improper.",
+      "swords": "carefree; happy; lighthearted"
+    },
+    {
+      "cardid": "32",
+      "title": "Bolster",
+      "definition": "support; prop up; reinforce",
+      "swords": "pillow, cushion, pad, support, rest"
+    },
+    {
+      "cardid": "33",
+      "title": "Bombastic",
+      "definition":
+        "pretentious and long-winded; pompous; using inflated language",
+      "swords": "pompous, blustering, ranting, blathering"
+    },
+    {
+      "cardid": "34",
+      "title": "Boor",
+      "definition": "someone who acts in a rude or insensitive way; lout; oaf",
+      "swords": "lout, oaf, ruffian, hooligan, thug, rowdy"
+    },
+    {
+      "cardid": "35",
+      "title": "Brook",
+      "definition": "a small stream; allow; tolerate; put up with",
+      "swords": "streamlet, rivulet, rill, brooklet"
+    },
+    {
+      "cardid": "36",
+      "title": "Burgeon",
+      "definition": "develop rapidly; flourish; send out new buds",
+      "swords": "grow rapidly, increase rapidly/exponentially"
+    },
+    {
+      "cardid": "37",
+      "title": "Burnish",
+      "definition": "make shiny by rubbing; polish",
+      "swords": "polish (up), shine, brighten, rub up/down"
+    },
+    {
+      "cardid": "38",
+      "title": "Cacophonous",
+      "definition": "discordant; unpleasant-sounding; grating; strident",
+      "swords": "loud, noisy, ear-splitting, blaring, booming"
+    },
+    {
+      "cardid": "39",
+      "title": "Castigation",
+      "definition":
+        "verbal punishment; scolding; severe criticism; public censure",
+      "swords": "discipline, nemesis, penalty, punishment"
+    },
+    {
+      "cardid": "40",
+      "title": "Catalyst",
+      "definition":
+        "someone or something that precipitates an action or change; substance that initiates or speeds up a chemical reaction without itself being affected",
+      "swords": "impetus, incentive, motivation, stimulant"
+    },
+    {
+      "cardid": "41",
+      "title": "Caustic",
+      "definition":
+        "able to burn, dissolve, or corrode by chemical action; bitingly sarcastic; stinging; harsh; corrosive",
+      "swords": "corrosive, corroding, mordant, acid, alkaline, burning"
+    },
+    {
+      "cardid": "42",
+      "title": "Chicanery",
+      "definition": "trickery to deceive someone; deception; fraud; evasion",
+      "swords":
+        "trickery, deception, deceit, deceitfulness, duplicity, dishonesty"
+    },
+    {
+      "cardid": "43",
+      "title": "Coagulate",
+      "definition": "thicken; congeal; clot",
+      "swords": "congeal, clot, cake, solidify, thicken, harden"
+    },
+    {
+      "cardid": "44",
+      "title": "Coda",
+      "definition":
+        "concluding section of a musical or literary composition; something that rounds out, summarizes, or concludes",
+      "swords": "farewell, windup, adieu, climax "
+    },
+    {
+      "cardid": "45",
+      "title": "Cogent",
+      "definition": "convincing; well-argued; powerfully persuasive",
+      "swords": "convincing, compelling, strong, forceful, powerful"
+    },
+    {
+      "cardid": "46",
+      "title": "Commensurate",
+      "definition":
+        "corresponding in extent, degree, amount, etc.; proportionate; adequate",
+      "swords": "equivalent, equal, corresponding, correspondent"
+    },
+    {
+      "cardid": "47",
+      "title": "Compendium",
+      "definition":
+        "comprehensive though brief summary or a larger work; digest or abstract; inventory",
+      "swords": "collection, compilation, anthology, treasury"
+    },
+    {
+      "cardid": "48",
+      "title": "Complaisant",
+      "definition": "obliging; eager to please; overly polite",
+      "swords": "willing, assenting, acquiescent, agreeable, amenable"
+    },
+    {
+      "cardid": "49",
+      "title": "Compliant (1)",
+      "definition": "submissive; yielding; willing to obey; acquiescent",
+      "swords": "acquiescent, amenable, biddable, tractable"
+    },
+    {
+      "cardid": "50",
+      "title": "Compliant (2)",
+      "definition": "conforming to requirements; meeting official obligations",
+      "swords": "adaptable, obedient"
+    },
+    {
+      "cardid": "51",
+      "title": "Confound",
+      "definition":
+        "confuse; mix up; puzzle; baffle; thwart; refute (an argument)",
+      "swords": "amaze, astonish, dumbfound, stagger, surprise"
+    },
+    {
+      "cardid": "52",
+      "title": "Connoisseur",
+      "definition":
+        "person competent to act as a judge of art, etc.; person with discriminating taste",
+      "swords":
+        "expert judge (of), authority (on), specialist (in); arbiter of taste, pundit, savant"
+    },
+    {
+      "cardid": "53",
+      "title": "Contention",
+      "definition": "claim or thesis; disagreement; debate; strife; conflict",
+      "swords": "argument, claim, plea, submission, allegation"
+    },
+    {
+      "cardid": "54",
+      "title": "Contrite",
+      "definition":
+        "feeling or expressing remorse at the recognition that one has done wrong.",
+      "swords":
+        "remorseful, repentant, penitent, regretful, full of regret, sorry"
+    },
+    {
+      "cardid": "55",
+      "title": "Conundrum",
+      "definition":
+        "riddle, especially one involving a pun; puzzle; difficult problem; dilemma",
+      "swords": "riddle, puzzle, word game, anagram"
+    },
+    {
+      "cardid": "56",
+      "title": "Converge",
+      "definition":
+        "come together; approach an intersecting point, tend to meet",
+      "swords": "meet, intersect, cross, come together, connect"
+    },
+    {
+      "cardid": "57",
+      "title": "Convoluted",
+      "definition":
+        "intricate; highly complex, even devious; involved; coiled around",
+      "swords": "complicated, complex, involved, intricate, elaborate"
+    },
+    {
+      "cardid": "58",
+      "title": "Craven",
+      "definition": "cowardly; contemptibly timorous; spineless; pusillanimous",
+      "swords": "unheroic, gutless, fearful, timid"
+    },
+    {
+      "cardid": "59",
+      "title": "Daunt",
+      "definition": "make (someone) feel intimidated or apprehensive; frighten; dishearten",
+      "swords": "intimidate, abash, take aback, shake"
+    },
+    {
+      "cardid": "60",
+      "title": "Denigrate",
+      "definition": "blacken; belittle; defame; disparage",
+      "swords": "disparage, belittle, diminish, deprecate"
+    },
+    {
+      "cardid": "61",
+      "title": "Desiccate",
+      "definition": "dry up; preserve by removing moisture; dehydrate",
+      "swords": "dried, dried up, dry, dehydrated, powdered"
+    },
+    {
+      "cardid": "62",
+      "title": "Desultory",
+      "definition":
+        "aimless; haphazard; unfocused; disappointing in performance",
+      "swords": "casual, half-hearted, lukewarm, cursory"
+    },
+    {
+      "cardid": "63",
+      "title": "Diatribe",
+      "definition":
+        "bitter, accusing criticism; tirade; sharp verbal attack; harangue",
+      "swords": "tirade, harangue, verbal onslaught, verbal attack"
+    },
+    {
+      "cardid": "64",
+      "title": "Dichotomy",
+      "definition":
+        "division; split; branching into two parts (especially contradictory ones); duality",
+      "swords": "division, separation, split, gulf, chasm"
+    },
+    {
+      "cardid": "65",
+      "title": "Diffidence",
+      "definition": "timidity; shyness; self-doubt; lack of self-confidence",
+      "swords": "bashfulness, unassertiveness, modesty, modestness"
+    },
+    {
+      "cardid": "66",
+      "title": "Diffuse",
+      "definition": "wordy; verbose; widely spread out (like a gas); scattered",
+      "swords": "spread out, scattered, dispersed, overlong"
+    },
+    {
+      "cardid": "67",
+      "title": "Dirge",
+      "definition": "lament, usually musical; funeral song or tune",
+      "swords": "elegy, lament, rarethrenody, threnode"
+    },
+    {
+      "cardid": "68",
+      "title": "Disabuse",
+      "definition":
+        "correct a false impression; free someone from an erroneous belief; undeceive",
+      "swords": "disillusion, undeceive, correct, set right/straight"
+    },
+    {
+      "cardid": "69",
+      "title": "Discrete",
+      "definition":
+        "separate; unconnected; consisting of distinct parts; isolated; do not confuse with discreet, which means tactful",
+      "swords": "distinct, individual, detached, unattached"
+    },
+    {
+      "cardid": "70",
+      "title": "Disingenuous",
+      "definition": "lacking candor; falsely pretending to be frank; insincere",
+      "swords": "dishonest, deceitful, underhand, underhanded"
+    },
+    {
+      "cardid": "71",
+      "title": "Disinterested",
+      "definition": "unbiased; impartial; neutral; dispassionate",
+      "swords": "unbiased, unprejudiced, impartial, neutral"
+    },
+    {
+      "cardid": "72",
+      "title": "Disjointed",
+      "definition":
+        "disconnected; incoherent; disorganized; taken apart at all the joints",
+      "swords": "unconnected, disconnected, without unity, disunited"
+    },
+    {
+      "cardid": "73",
+      "title": "Disparate",
+      "definition":
+        "fundamentally different; wholly dissimilar; unrelated; unlike",
+      "swords": "contrasting, different, differing, dissimilar, unlike, unalike, poles apart"
+    },
+    {
+      "cardid": "74",
+      "title": "Dissemble",
+      "definition":
+        "feign; hide behind a false appearance; conceal one's motives; dissimulate",
+      "swords": "dissimulate, pretend, deceive, feign, act"
+    },
+    {
+      "cardid": "75",
+      "title": "Dissolution",
+      "definition":
+        "disintegration; dissolving into parts; termination; indulgence in sensual pleasures; debauchery",
+      "swords": "cessation, conclusion, end, ending, finish"
+    },
+    {
+      "cardid": "76",
+      "title": "Dissonance",
+      "definition":
+        "discord; inharmonious sound; cacophony; disagreement; incongruity",
+      "swords": "incongruity, disparity, discrepancy, disagreement"
+    },
+    {
+      "cardid": "77",
+      "title": "Distend",
+      "definition": "expand; swell up; inflate",
+      "swords": "swell, bloat, bulge, puff out/up, blow up/out"
+    },
+    {
+      "cardid": "78",
+      "title": "Divest",
+      "definition":
+        "strip; deprive; free from; take away; cease to hold (an investment)",
+      "swords": "deprive, strip, dispossess, relieve"
+    },
+    {
+      "cardid": "79",
+      "title": "Ebullience",
+      "definition":
+        "exuberance; overflowing enthusiasm; high-spirits; a boiling over",
+      "swords": "exuberance, buoyancy, cheerfulness, joy, joyfulness"
+    },
+    {
+      "cardid": "80",
+      "title": "Efficacy",
+      "definition":
+        "effectiveness; power to bring about a desired effect; usefulness",
+      "swords": "edge, effectiveness, effectualness, efficaciousness"
+    },
+    {
+      "cardid": "81",
+      "title": "Effrontery",
+      "definition":
+        "impudence; shameless boldness; sheer nerve; impertinence; insolence",
+      "swords": "impudence, impertinence, cheek, insolence"
+    },
+    {
+      "cardid": "82",
+      "title": "Elaboration",
+      "definition":
+        "embellishment; amplification; refinement; addition of details; intricacy",
+      "swords": "amplification, expanding upon, expansion, betterment, improvement"
+    },
+    {
+      "cardid": "83",
+      "title": "Elegy",
+      "definition":
+        "mournful poem; lament for the dead; melancholy musical composition; the opposite of paean",
+      "swords": "lament, dirge, plaint, requiem, keening"
+    },
+    {
+      "cardid": "84",
+      "title": "Elicit",
+      "definition":
+        "draw forth; evoke; prompt; succeed in obtaining (information) from someone",
+      "swords": "obtain, bring out, draw out, extract"
+    },
+    {
+      "cardid": "85",
+      "title": "Empirical",
+      "definition":
+        "based on experience; verifiable by experiment or observation; firsthand; pragmatic",
+      "swords": "observed, seen, factual, actual, real"
+    },
+    {
+      "cardid": "86",
+      "title": "Encomium",
+      "definition": "eulogy; high praise; formal tribute; panagyric",
+      "swords": "eulogy, speech of praise, panegyric"
+    },
+    {
+      "cardid": "87",
+      "title": "Endemic",
+      "definition":
+        "native; indigenous; prevalent in a particular region or among a particular group",
+      "swords": "enzootic, endemical"
+    },
+    {
+      "cardid": "88",
+      "title": "Enervate",
+      "definition": "weaken; debilitate; render feeble; drain",
+      "swords": "exhaust, tire, fatigue, weary, wear out, devitalize, drain"
+    },
+    {
+      "cardid": "89",
+      "title": "Engender",
+      "definition": "cause; produce; stir up; prompt; create; breed",
+      "swords": "cause, be the cause of, give rise to, bring about, lead to"
+    },
+    {
+      "cardid": "90",
+      "title": "Equanimity",
+      "definition":
+        "composure; equilibrium; calmness of temperament; self-posession",
+      "swords": "composure, calmness, calm, level-headedness"
+    },
+    {
+      "cardid": "91",
+      "title": "Equivocate",
+      "definition": "lie; prevaricate; speak misleadingly; hedge",
+      "swords": "prevaricate, be evasive, be non-committal, be vague"
+    },
+    {
+      "cardid": "92",
+      "title": "Erudition",
+      "definition": "deep scholarly knowledge; scholarship; learning",
+      "swords": "learning, scholarship, knowledge, education, culture"
+    },
+    {
+      "cardid": "93",
+      "title": "Eulogize",
+      "definition":
+        "praise highly; extol; panegyrize; give or write a laudatory speech",
+      "swords": "praise enthusiastically, go into raptures about/over"
+    },
+    {
+      "cardid": "94",
+      "title": "Euphemism",
+      "definition":
+        "mild expression used in place of an unpleasant one; act of substituting an inoffensive term",
+      "swords": "polite term, substitute, mild alternative, indirect term"
+    },
+    {
+      "cardid": "95",
+      "title": "Exculpate",
+      "definition": "clear from blame; exonerate; vindicate; acquit",
+      "swords": "discharge, liberate, redeem, release, unburdenv"
+    },
+    {
+      "cardid": "96",
+      "title": "Exigent",
+      "definition":
+        "urgent; pressing; exacting; taxing; requiring immediate action",
+      "swords": "acute, burning, compelling, critical, crying, dire, emergent"
+    },
+    {
+      "cardid": "97",
+      "title": "Extrapolation",
+      "definition":
+        "inference based on known facts; conjecture; estimate; projection",
+      "swords": "deduce, hypothesize, anticipate, assume, conclude"
+    },
+    {
+      "cardid": "98",
+      "title": "Facetious",
+      "definition":
+        "humorous; joking (often inappropriately); not seriously intended; flippant",
+      "swords": "flippant, flip, glib, frivolous, tongue-in-cheek"
+    },
+    {
+      "cardid": "99",
+      "title": "Fallacy",
+      "definition":
+        "mistaken idea based on flawed reasoning; invalid argument; erroneousness",
+      "swords": "misconception, mistaken belief, misbelief, delusion"
+    },
+    {
+      "cardid": "100",
+      "title": "Fatuous",
+      "definition": "brainless; inane; smugly foolish; asinine",
+      "swords": "silly, foolish, stupid, inane, nonsensical, childish"
+    },
+    {
+      "cardid": "101",
+      "title": "Fawning",
+      "definition": "obsequious; servile; sycophantic; bootlicking; toadying",
+      "swords": "be obsequious to, be sycophantic to, be servile to"
+    },
+    {
+      "cardid": "102",
+      "title": "Felicitous",
+      "definition": "appropriate; apt; well-chosen; fortunate",
+      "swords": "apt, well chosen, well expressed, well put"
+    },
+    {
+      "cardid": "103",
+      "title": "flag",
+      "definition": "lose vigor; fade; wane; droop; grow feeble",
+      "swords": ""
+    },
+    {
+      "cardid": "104",
+      "title": "fledgling",
+      "definition": "young; inexperienced; new; untried",
+      "swords": ""
+    },
+    {
+      "cardid": "105",
+      "title": "florid",
+      "definition": "overly ornate; flowery; grandiloquent; ruddy; reddish",
+      "swords": ""
+    },
+    {
+      "cardid": "106",
+      "title": "flout",
+      "definition":
+        "reject mockingly; show contempt for; scoff at; disregard scornfully",
+      "swords": ""
+    },
+    {
+      "cardid": "107",
+      "title": "foment",
+      "definition": "stir up; incite; instigate; stimulate; provoke",
+      "swords": ""
+    },
+    {
+      "cardid": "108",
+      "title": "forestall",
+      "definition":
+        "prevent by taking action in advance; hinder; preclude; avert",
+      "swords": ""
+    },
+    {
+      "cardid": "109",
+      "title": "frenetic",
+      "definition": "frenzied; frantic; hectic; wildly agitated; uncontrolled",
+      "swords": ""
+    },
+    {
+      "cardid": "110",
+      "title": "gainsay",
+      "definition": "contradict; take exception to; dispute; deny; oppose",
+      "swords": ""
+    },
+    {
+      "cardid": "111",
+      "title": "garrulity",
+      "definition": "talkativeness; loquacity; volubility",
+      "swords": ""
+    },
+    {
+      "cardid": "112",
+      "title": "grandiloquent",
+      "definition":
+        "lofty in style; using inflated language; pompous; bombastic",
+      "swords": ""
+    },
+    {
+      "cardid": "113",
+      "title": "harangue",
+      "definition":
+        "intense verbal attack; passionate, vehement speech; diatribe; tirade",
+      "swords": ""
+    },
+    {
+      "cardid": "114",
+      "title": "heterodox",
+      "definition":
+        "unorthodox; unconventional; dissident; disagreeing with accepted beliefs",
+      "swords": ""
+    },
+    {
+      "cardid": "115",
+      "title": "homogeneity",
+      "definition":
+        "uniformity of structure of composition; formation out of similar elements",
+      "swords": ""
+    },
+    {
+      "cardid": "116",
+      "title": "hyperbolic",
+      "definition":
+        "excessively exaggerated; overstated; inflated beyond reason",
+      "swords": ""
+    },
+    {
+      "cardid": "117",
+      "title": "iconoclastic",
+      "definition":
+        "attacking cherished traditions; nonconformist; rebellious; dissident",
+      "swords": ""
+    },
+    {
+      "cardid": "118",
+      "title": "idiosyncrasy",
+      "definition":
+        "individual trait, usually odd in nature; eccentricity; quirk; foible",
+      "swords": ""
+    },
+    {
+      "cardid": "119",
+      "title": "idolatrous",
+      "definition":
+        "blindly devoted; excessively adoring; idol-worshipping; idolizing",
+      "swords": ""
+    },
+    {
+      "cardid": "120",
+      "title": "idyllic",
+      "definition":
+        "charmingly carefree and simple; unspoiled; serene; pastoral",
+      "swords": ""
+    },
+    {
+      "cardid": "130",
+      "title": "illusory",
+      "definition": "deceptive; false; misleading; unreal",
+      "swords": ""
+    },
+    {
+      "cardid": "131",
+      "title": "impassive",
+      "definition":
+        "without feeling; imperturbable; stoical; phlegmatic; expressionless",
+      "swords": ""
+    },
+    {
+      "cardid": "132",
+      "title": "imperiousness",
+      "definition":
+        "overbearing manner; domineering attitude; arrogance; lordliness",
+      "swords": ""
+    },
+    {
+      "cardid": "133",
+      "title": "impermeable",
+      "definition":
+        "impervious; not permitting passage through its substance; impenetrable; waterproof",
+      "swords": ""
+    },
+    {
+      "cardid": "134",
+      "title": "imperturbable",
+      "definition": "unflappable; unflustered; composed; calm",
+      "swords": ""
+    },
+    {
+      "cardid": "135",
+      "title": "impervious",
+      "definition":
+        "impenetrable; incapable of being damaged or distressed; invulnerable; incapable of being affected",
+      "swords": ""
+    },
+    {
+      "cardid": "136",
+      "title": "implacable",
+      "definition":
+        "unable to be appeased; inexorable; unbending; merciless; relentless",
+      "swords": ""
+    },
+    {
+      "cardid": "137",
+      "title": "implicit",
+      "definition":
+        "understood, but not directly stated; implied; unquestioning",
+      "swords": ""
+    },
+    {
+      "cardid": "138",
+      "title": "impregnable",
+      "definition":
+        "invulnerable; invincible; difficult to refute; capable of conceiving",
+      "swords": ""
+    },
+    {
+      "cardid": "139",
+      "title": "inchoate",
+      "definition":
+        "not fully formed; incipient; rudimentary; undeveloped; lacking order",
+      "swords": ""
+    },
+    {
+      "cardid": "140",
+      "title": "inconsequential",
+      "definition": "insignificant; unimportant; trivial; illogical",
+      "swords": ""
+    },
+    {
+      "cardid": "141",
+      "title": "indeterminate",
+      "definition": "uncertain; not clearly fixed; undefined; unsettled; vague",
+      "swords": ""
+    },
+    {
+      "cardid": "142",
+      "title": "indigent",
+      "definition": "extremely poor; penurious; destitute; impecunious",
+      "swords": ""
+    },
+    {
+      "cardid": "143",
+      "title": "inert",
+      "definition":
+        "inactive; motionless; immobile; incapable of reacting chemically",
+      "swords": ""
+    },
+    {
+      "cardid": "144",
+      "title": "ingenuous",
+      "definition": "naive and trusting; artless; unsophisticated; innocent",
+      "swords": ""
+    },
+    {
+      "cardid": "145",
+      "title": "innocuousness",
+      "definition": "harmlessness; inoffensiveness; insipidity; innocence",
+      "swords": ""
+    },
+    {
+      "cardid": "146",
+      "title": "insensible",
+      "definition":
+        "incapable of feeling; unresponsive; emotionless; unfeeling; unaware",
+      "swords": ""
+    },
+    {
+      "cardid": "147",
+      "title": "insularity",
+      "definition": "narrow-mindedness; provinciality; parochialism; isolation",
+      "swords": ""
+    },
+    {
+      "cardid": "148",
+      "title": "intractable",
+      "definition":
+        "stubborn; unyielding; obstinate; obdurate; unruly; pigheaded",
+      "swords": ""
+    },
+    {
+      "cardid": "149",
+      "title": "intransigence",
+      "definition":
+        "stubbornness; refusal of any compromise; obstinacy; obduracy; extreme firmness",
+      "swords": ""
+    },
+    {
+      "cardid": "150",
+      "title": "inundate",
+      "definition": "overwhelm; flood; submerge; deluge; swamp",
+      "swords": ""
+    },
+    {
+      "cardid": "151",
+      "title": "inured",
+      "definition": "accustomed; hardened; toughened; habituated",
+      "swords": ""
+    },
+    {
+      "cardid": "152",
+      "title": "invective",
+      "definition": "abuse; verbal attack; vituperation; violent censure",
+      "swords": ""
+    },
+    {
+      "cardid": "153",
+      "title": "irascible",
+      "definition": "irritable; touchy; testy; quick-tempered",
+      "swords": ""
+    },
+    {
+      "cardid": "154",
+      "title": "irresolute",
+      "definition":
+        "uncertain how to act; unsure; weak; indecisive; vacillating",
+      "swords": ""
+    },
+    {
+      "cardid": "155",
+      "title": "lachrymose",
+      "definition": "tearful; weeping; sorrowful; melancholy; dolorous",
+      "swords": ""
+    },
+    {
+      "cardid": "156",
+      "title": "lassitude",
+      "definition": "languor; weariness; lack of energy",
+      "swords": ""
+    },
+    {
+      "cardid": "157",
+      "title": "latent",
+      "definition": "potential but undeveloped; dormant; hidden",
+      "swords": ""
+    },
+    {
+      "cardid": "158",
+      "title": "loquacious",
+      "definition": "talkative; voluble; garrulous; gabby; long-winded",
+      "swords": ""
+    },
+    {
+      "cardid": "159",
+      "title": "lumber",
+      "definition": "move heavily; shamble; plod",
+      "swords": ""
+    },
+    {
+      "cardid": "160",
+      "title": "luminous",
+      "definition": "shining; issuing light; glowing; gleaming",
+      "swords": ""
+    },
+    {
+      "cardid": "161",
+      "title": "magnanimity",
+      "definition":
+        "generosity; greatness of spirit; nobility; high-mindedness",
+      "swords": ""
+    },
+    {
+      "cardid": "162",
+      "title": "malinger",
+      "definition": "shirk; feign illness to evade work",
+      "swords": ""
+    },
+    {
+      "cardid": "163",
+      "title": "malleable",
+      "definition":
+        "capable of being shaped by pounding; soft and pliable; impressionable",
+      "swords": ""
+    },
+    {
+      "cardid": "164",
+      "title": "maverick",
+      "definition": "rebel; nonconformist; eccentric; oddball",
+      "swords": ""
+    },
+    {
+      "cardid": "165",
+      "title": "mendacious",
+      "definition": "untruthful; lying; habitually dishonest; deceitful",
+      "swords": ""
+    },
+    {
+      "cardid": "166",
+      "title": "mercurial",
+      "definition":
+        "capricious; unpredictable; inconstant; fickle; volatile; lively",
+      "swords": ""
+    },
+    {
+      "cardid": "167",
+      "title": "metamorphosis",
+      "definition":
+        "change of form; transformation; total alteration; transfiguration",
+      "swords": ""
+    },
+    {
+      "cardid": "168",
+      "title": "misanthrope",
+      "definition": "one who hates or distrusts people",
+      "swords": ""
+    },
+    {
+      "cardid": "169",
+      "title": "morose",
+      "definition": "melancholy; dejected; gloomy; sullen",
+      "swords": ""
+    },
+    {
+      "cardid": "170",
+      "title": "neophyte",
+      "definition": "novice; tyro; beginner; tenderfoot",
+      "swords": ""
+    },
+    {
+      "cardid": "171",
+      "title": "obduracy",
+      "definition": "stubbornness; obstinacy; inflexibility; intransigence",
+      "swords": ""
+    },
+    {
+      "cardid": "172",
+      "title": "obsequious",
+      "definition": "servile; sycophantic; fawning; slavishly attentive",
+      "swords": ""
+    },
+    {
+      "cardid": "173",
+      "title": "obviate",
+      "definition": "prevent (problems); preclude; make unnecessary",
+      "swords": ""
+    },
+    {
+      "cardid": "174",
+      "title": "occlude",
+      "definition": "shut; close; clog; obstruct; block",
+      "swords": ""
+    },
+    {
+      "cardid": "175",
+      "title": "officious",
+      "definition":
+        "meddlesome; interfering; excessively push in offering one's services",
+      "swords": ""
+    },
+    {
+      "cardid": "176",
+      "title": "onerous",
+      "definition": "burdensome; heavy; oppressive",
+      "swords": ""
+    },
+    {
+      "cardid": "177",
+      "title": "opprobrium",
+      "definition":
+        "ignominy; disgrace caused y shameful behavior; state of dishonor; obloquy",
+      "swords": ""
+    },
+    {
+      "cardid": "178",
+      "title": "oscillate",
+      "definition": "swing to and fro like a pendulum; vacillate; waver",
+      "swords": ""
+    },
+    {
+      "cardid": "179",
+      "title": "ostentation",
+      "definition":
+        "pretentious show - of wealth; gaudy display - often vulgar; excessive showiness; pretentiousness",
+      "swords": ""
+    },
+    {
+      "cardid": "180",
+      "title": "palpable",
+      "definition":
+        "tangible; perceptible by touch; touchable; easily perceived; obvious",
+      "swords": ""
+    },
+    {
+      "cardid": "181",
+      "title": "panegyric",
+      "definition":
+        "eulogistic oration; encomium; tribute; formal expression of praise",
+      "swords": ""
+    },
+    {
+      "cardid": "182",
+      "title": "paragon",
+      "definition":
+        "model of perfection; pattern of excellence; peerless example; ideal instance",
+      "swords": ""
+    },
+    {
+      "cardid": "183",
+      "title": "parsimony",
+      "definition": "excessive frugality; stinginess; meanness",
+      "swords": ""
+    },
+    {
+      "cardid": "184",
+      "title": "pathological",
+      "definition":
+        "relating to the study of disease; caused by disease; manifesting compulsive behavior; abnormal",
+      "swords": ""
+    },
+    {
+      "cardid": "185",
+      "title": "paucity",
+      "definition":
+        "scarcity; dearth; scantiness; insufficiency of number; fewness",
+      "swords": ""
+    },
+    {
+      "cardid": "186",
+      "title": "peccadillo",
+      "definition": "minor sin; slight offense; trifling fault; slip",
+      "swords": ""
+    },
+    {
+      "cardid": "187",
+      "title": "pedantic",
+      "definition":
+        "showing off one's learning; overly fussy about minute details; didactic; bookish; nitpicking",
+      "swords": ""
+    },
+    {
+      "cardid": "188",
+      "title": "penchant",
+      "definition":
+        "strong inclination; decided taste; definite liking; predilection",
+      "swords": ""
+    },
+    {
+      "cardid": "189",
+      "title": "penury",
+      "definition":
+        "extreme poverty; destitution; indigence; pennilessness; impecuniousness",
+      "swords": ""
+    },
+    {
+      "cardid": "190",
+      "title": "perennial",
+      "definition":
+        "lasting many years; enduring; recurring again and again; continuing",
+      "swords": ""
+    },
+    {
+      "cardid": "191",
+      "title": "perfidious",
+      "definition": "disloyal; treacherous; faithless; deceitful; traitorous",
+      "swords": ""
+    },
+    {
+      "cardid": "192",
+      "title": "perfunctory",
+      "definition":
+        "superficial; cursory; not thorough; indifferent; negligent",
+      "swords": ""
+    },
+    {
+      "cardid": "193",
+      "title": "permeable",
+      "definition":
+        "penetrable; porous; allowing liquids or gas to pass through",
+      "swords": ""
+    },
+    {
+      "cardid": "194",
+      "title": "phlegmatic",
+      "definition":
+        "not easily disturbed or excited; calm; composed; unruffled; sluggish",
+      "swords": ""
+    },
+    {
+      "cardid": "195",
+      "title": "plasticity",
+      "definition":
+        "physical malleability; ability to be shaped without breaking; capability of being molded",
+      "swords": ""
+    },
+    {
+      "cardid": "196",
+      "title": "platitude",
+      "definition":
+        "trite remark; commonplace statement; banal comment; cliché; bromide",
+      "swords": ""
+    },
+    {
+      "cardid": "197",
+      "title": "plethora",
+      "definition": "superabundance; excess; glut; surfeit",
+      "swords": ""
+    },
+    {
+      "cardid": "198",
+      "title": "plummet",
+      "definition": "plunge; drop sharply; fall swiftly; decline steeply",
+      "swords": ""
+    },
+    {
+      "cardid": "199",
+      "title": "porous",
+      "definition": "sievelike; permeable; allowing passage of air or liquids",
+      "swords": ""
+    },
+    {
+      "cardid": "200",
+      "title": "preamble",
+      "definition":
+        "preface; introduction; foreword; prologue; preliminary circumstance",
+      "swords": ""
+    },
+    {
+      "cardid": "201",
+      "title": "precarious",
+      "definition":
+        "dangerous; risky; perilous; uncertain; insecure; unreliable",
+      "swords": ""
+    },
+    {
+      "cardid": "202",
+      "title": "precipitate",
+      "definition": "hasty; rash; sudden; abrupt; headlong; impetuous; rapid",
+      "swords": ""
+    },
+    {
+      "cardid": "203",
+      "title": "precursor",
+      "definition":
+        "forerunner; predecessor; herald; harbinger; biochemical substance that gives rise to another substance, as in a chemical reaction",
+      "swords": ""
+    },
+    {
+      "cardid": "204",
+      "title": "prevaricate",
+      "definition":
+        "lie; speak misleadingly; intentionally misstate; equivocate; fib",
+      "swords": ""
+    },
+    {
+      "cardid": "205",
+      "title": "pristine",
+      "definition":
+        "unspoiled; unsullied; unpolluted; undefiled; pure; immaculately clean; primitive",
+      "swords": ""
+    },
+    {
+      "cardid": "206",
+      "title": "probity",
+      "definition":
+        "integrity; uprightness; rectitude; incorruptibility; honesty; righteousness",
+      "swords": ""
+    },
+    {
+      "cardid": "207",
+      "title": "problematic",
+      "definition":
+        "doubtful; unsettled; unresolved; uncertain baffling; debatable; unsure",
+      "swords": ""
+    },
+    {
+      "cardid": "208",
+      "title": "prodigality",
+      "definition":
+        "wasteful extravagance; recklessness with money; uncontrolled spending; lavishness",
+      "swords": ""
+    },
+    {
+      "cardid": "209",
+      "title": "profligacy",
+      "definition":
+        "dissipation; dissoluteness; licentiousness; debauchery; depravity; wasteful extravagance",
+      "swords": ""
+    },
+    {
+      "cardid": "210",
+      "title": "prohibitive",
+      "definition":
+        "tending to prevent or discourage something's purchase or use; inclined to prevent or forbid",
+      "swords": ""
+    },
+    {
+      "cardid": "211",
+      "title": "proliferate",
+      "definition": "increase in number; spread rapidly; multiply",
+      "swords": ""
+    },
+    {
+      "cardid": "212",
+      "title": "propensity",
+      "definition":
+        "innate inclination; bent; natural tendency; proclivity; penchant; predisposition",
+      "swords": ""
+    },
+    {
+      "cardid": "213",
+      "title": "propitiate",
+      "definition": "appease; conciliate; mollify; placate; sooth; pacify",
+      "swords": ""
+    },
+    {
+      "cardid": "214",
+      "title": "propriety",
+      "definition":
+        "fitness; appropriateness; correctness of behavior; conformity to conventional standards; decorum; seemliness; decency",
+      "swords": ""
+    },
+    {
+      "cardid": "215",
+      "title": "proscribe",
+      "definition":
+        "denounce; condemn; prohibit; forbid; ostracize; banish; outlaw; ban",
+      "swords": ""
+    },
+    {
+      "cardid": "216",
+      "title": "pundit",
+      "definition":
+        "learned authority; authoritative critic or commentator; scholarly expert; expert analyst",
+      "swords": ""
+    },
+    {
+      "cardid": "217",
+      "title": "pungent",
+      "definition":
+        "acrid-tasting; strong-smelling; stinging; caustic; bitter; mordant; penetrating; mentally keen",
+      "swords": ""
+    },
+    {
+      "cardid": "218",
+      "title": "quiescent",
+      "definition":
+        "at rest; still; dormant; temporarily inactive; quiet; motionless",
+      "swords": ""
+    },
+    {
+      "cardid": "219",
+      "title": "rarefied",
+      "definition":
+        "made less dense (of a gas); elevated in nature; lofty; refined; select; esoteric",
+      "swords": ""
+    },
+    {
+      "cardid": "220",
+      "title": "recalcitrant",
+      "definition":
+        "obstinately stubborn; determined to resist authority; unruly; intractable; refractory; fractious",
+      "swords": ""
+    },
+    {
+      "cardid": "221",
+      "title": "recant",
+      "definition":
+        "disclaim; disavow; retract a previous statement; repudiate; openly confess error",
+      "swords": ""
+    },
+    {
+      "cardid": "222",
+      "title": "reclusive",
+      "definition":
+        "solitary; seeking isolation; withdrawn from society; providing seclusion; cloistered",
+      "swords": ""
+    },
+    {
+      "cardid": "223",
+      "title": "recondite",
+      "definition":
+        "difficult to understand; profound; abstruse; esoteric; obscure; mysterious; secret",
+      "swords": ""
+    },
+    {
+      "cardid": "224",
+      "title": "redoubtable",
+      "definition": "formidable; causing fear or awe; commanding respect",
+      "swords": ""
+    },
+    {
+      "cardid": "225",
+      "title": "refractory",
+      "definition":
+        "intractable; unruly; fractious; recalcitrant; obstinately stubborn; resistant to treatment",
+      "swords": ""
+    },
+    {
+      "cardid": "226",
+      "title": "reprobate",
+      "definition":
+        "unprincipled or evil person; depraved individual; person hardened by sin; scoundrel; wastrel; miscreant",
+      "swords": ""
+    },
+    {
+      "cardid": "227",
+      "title": "rescind",
+      "definition":
+        "revoke; repeal; annul; abrogate; cancel; nullify; withdraw; countermand",
+      "swords": ""
+    },
+    {
+      "cardid": "228",
+      "title": "salubrious",
+      "definition": "conducive to good health; healthful; beneficial",
+      "swords": ""
+    },
+    {
+      "cardid": "229",
+      "title": "sanction",
+      "definition":
+        "officially authorize; approve; allow; encourage; permit; agree to",
+      "swords": ""
+    },
+    {
+      "cardid": "230",
+      "title": "satiate",
+      "definition": "surfeit; satisfy fully, or excessively; glut; gore; sate",
+      "swords": ""
+    },
+    {
+      "cardid": "231",
+      "title": "secrete",
+      "definition":
+        "hide away; conceal; cache; produce and release a bodily substance (digestive juices, hormones, etc.)",
+      "swords": ""
+    },
+    {
+      "cardid": "232",
+      "title": "shard",
+      "definition":
+        "broken piece, generally of pottery; fragment of earthenware",
+      "swords": ""
+    },
+    {
+      "cardid": "233",
+      "title": "solicitous",
+      "definition":
+        "anxious; worried; apprehensive; concerned; mindful; eager; extremely careful",
+      "swords": ""
+    },
+    {
+      "cardid": "234",
+      "title": "speciousness",
+      "definition":
+        "seeming plausibility; superficial but misleading appearance of correctness; fallaciousness; deceptiveness",
+      "swords": ""
+    },
+    {
+      "cardid": "235",
+      "title": "stigma",
+      "definition":
+        "mark of disgrace; stain; blot; blemish; badge of infamy; taint",
+      "swords": ""
+    },
+    {
+      "cardid": "236",
+      "title": "stint",
+      "definition":
+        "be frugal; set limit; be thrifty; restrict; be sparing; scrimp",
+      "swords": ""
+    },
+    {
+      "cardid": "237",
+      "title": "stipulate",
+      "definition":
+        "make express conditions; specify; arrange specifically; require; expressly demand; insist on",
+      "swords": ""
+    },
+    {
+      "cardid": "238",
+      "title": "stolid",
+      "definition":
+        "impassive; unemotional; not easily excited; indifferent; phlegmatic; dull",
+      "swords": ""
+    },
+    {
+      "cardid": "239",
+      "title": "striated",
+      "definition":
+        "marked with parallel bands; grooved; furrowed; ridged; striped",
+      "swords": ""
+    },
+    {
+      "cardid": "240",
+      "title": "supposition",
+      "definition": "assumption; surmise; hypothesis; presupposition",
+      "swords": ""
+    },
+    {
+      "cardid": "241",
+      "title": "tacit",
+      "definition":
+        "understood without being put into words; unspoken; silent; unvoiced; implied without being openly stated; unexpressed; implicit",
+      "swords": ""
+    },
+    {
+      "cardid": "242",
+      "title": "tangential",
+      "definition":
+        "peripheral; digressive; divergent; only superficially pertinent; off on a tangent",
+      "swords": ""
+    },
+    {
+      "cardid": "243",
+      "title": "tenuous",
+      "definition":
+        "thin; threadlike; attenuated; unsubstantiated; weak; flimsy; insignificant; unimportant; vague",
+      "swords": ""
+    },
+    {
+      "cardid": "244",
+      "title": "tirade",
+      "definition":
+        "bitter outburst; vehement denunciation; extended scolding; harangue; diatribe",
+      "swords": ""
+    },
+    {
+      "cardid": "245",
+      "title": "torpor",
+      "definition":
+        "apathy; sluggishness; listless indifference; lethargy; stolidity; inertia; dormancy",
+      "swords": ""
+    },
+    {
+      "cardid": "246",
+      "title": "tortuous",
+      "definition":
+        "full of twists and turns; winding; curvy; crooked; misleadingly indirect; circuitous; roundabout; serpentine; intricate",
+      "swords": ""
+    },
+    {
+      "cardid": "247",
+      "title": "tout",
+      "definition":
+        "solicit support, business; publicize; promote; advertise; praise excessively",
+      "swords": ""
+    },
+    {
+      "cardid": "248",
+      "title": "tractable",
+      "definition":
+        "docile; amenable; yielding; submissive; readily compliant; complaisant; malleable",
+      "swords": ""
+    },
+    {
+      "cardid": "249",
+      "title": "transgression",
+      "definition":
+        "violation of a law; sin; infraction; exceeding of bounds; wrongdoing; breach",
+      "swords": ""
+    },
+    {
+      "cardid": "250",
+      "title": "truculence",
+      "definition":
+        "belligerence; aggressiveness; hostility; ferocity; pugnacity; fierceness; being disposed to fight",
+      "swords": ""
+    },
+    {
+      "cardid": "251",
+      "title": "veneration",
+      "definition": "profound respect; reverence; awe",
+      "swords": ""
+    },
+    {
+      "cardid": "252",
+      "title": "veracious",
+      "definition": "truthful; honest; accurate in content; precise",
+      "swords": ""
+    },
+    {
+      "cardid": "253",
+      "title": "viable",
+      "definition":
+        "practical; workable; feasible; capable of maintaining life; capable of growth and expansion; capable of success",
+      "swords": ""
+    },
+    {
+      "cardid": "254",
+      "title": "virtuosity",
+      "definition":
+        "extreme ability in an artistic form; masterly skill or technique",
+      "swords": ""
+    },
+    {
+      "cardid": "256",
+      "title": "viscous",
+      "definition": "sticky; thick; adhesive; gluey; syrupy",
+      "swords": ""
+    },
+    {
+      "cardid": "257",
+      "title": "vituperative",
+      "definition":
+        "abusive; scathing; venomous; scolding; denunciatory; censorious; defamatory; vilifying; insulting",
+      "swords": ""
+    },
+    {
+      "cardid": "258",
+      "title": "warranted",
+      "definition": "justified; authorized; sanctioned; defensible; guaranteed",
+      "swords": ""
+    },
+    {
+      "cardid": "259",
+      "title": "welter",
+      "definition":
+        "bewildering jumble; muddle; clutter; confusion; turmoil; tumult",
+      "swords": ""
+    },
+    {
+      "cardid": "260",
+      "title": "zealotry",
+      "definition":
+        "fanaticism intolerance of conflicting beliefs, undue enthusiasm",
+      "swords": ""
+    },
+    {
+      "cardid": "261",
+      "title": "zenith",
+      "definition":
+        "highest point; point directly overhead in the sky (nadir is the opposite); summit; apex; peak; culmination",
+      "swords": ""
+    }
+  ]
+}
    ]
 }
